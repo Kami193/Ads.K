@@ -29,4 +29,5 @@ git reset --hard iddocommit
 
 git reset --hard~1 (volta 1 versão, ~2 volta 2 versões...)
 
+Teste
 
